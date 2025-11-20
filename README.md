@@ -1,6 +1,10 @@
 # 🌍 Global Solution 2025 – Plataforma de Upskilling/Reskilling  
 **O Futuro do Trabalho • FIAP – Domain Driven Design (Java)**
 
+- João Pedro Saborido | RM: 98184 
+- Matheus Haruo | RM: 97663
+- Pedro Guerra | RM: 99526	
+
 ## 📘 1. Descrição do Projeto
 
 Este projeto implementa uma **API RESTful** em **Java + Spring Boot** para apoiar uma plataforma de **Upskilling e Reskilling**, alinhada às demandas do **Futuro do Trabalho 2030+**.
